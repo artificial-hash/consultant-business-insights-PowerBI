@@ -1,0 +1,43 @@
+📊 SALES PERFORMANCE DASHBOARD – KEY INSIGHTS
+
+1. Overall Sales Performance
+
+The total sales generated during the selected period is 1.63M.
+A total of 4,000+ orders were placed, indicating consistent customer demand.
+The average order value (AOV) is approximately 450.81, showing moderate per-order spending.
+
+2. Regional Analysis
+
+West region contributes the highest share of total sales, followed by East.
+South region shows comparatively lower sales, indicating potential for market expansion.
+Regional sales disparity suggests uneven market penetration.
+
+3. Segment Contribution
+
+The Consumer segment contributes nearly half of the total revenue.
+Corporate customers form the second largest segment.
+Home Office segment has the lowest contribution, representing a growth opportunity.
+
+4. Category & Sub-Category Trends
+
+Technology and Office Supplies outperform Furniture in overall sals.
+Among sub-categories, Phones and Chairs are top revenue generators.
+Some sub-categories show high order count but low revenue, indicating low-value items.
+
+5. Product-Level Insights
+
+A small number of products contribute disproportionately to total sales.
+The top 10 products account for a significant portion of revenue.
+Several products have low sales but high order frequency, impacting operational efficiency.
+
+6. Sales Trend Analysis
+
+Monthly sales show an upward trend with fluctuations, indicating seasonal effects.
+Significant sales spikes are observed during certain months, suggesting promotional or demand-driven periods.
+Month-on-Month (MoM) growth highlights volatility, emphasizing the need for demand forecasting.
+
+7. Customer Behavior
+
+Sales per customer value indicates dependency on repeat customers.
+High-value customers play a major role in revenue generation.
+Targeted retention strategies can significantly improve revenue stability.

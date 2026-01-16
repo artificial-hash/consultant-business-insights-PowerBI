@@ -1,0 +1,26 @@
+PROJECT TITLE:
+Consultant-Level End-to-End Business Intelligence Solution
+
+BUSINESS CONTEXT:
+A retail company operates across multiple regions and sells a variety of products.
+Management wants to understand sales performance, profitability, and customer behavior
+to make data-driven decisions.
+
+BUSINESS OBJECTIVES:
+1. Track overall sales and profit performance.
+2. Identify underperforming regions and products.
+3. Analyze customer contribution to revenue.
+4. Discover trends over time for better forecasting.
+5. Provide actionable insights to management.
+
+KEY STAKEHOLDERS:
+- Business Managers
+- Sales Team
+- Finance Team
+- Strategy Team
+
+SUCCESS METRICS:
+- Increase profitability
+- Reduce losses from low-performing products
+- Improve regional performance
+- Better decision-making using dashboards

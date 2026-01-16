@@ -1,0 +1,9 @@
+# Power BI
+*.pbix
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp

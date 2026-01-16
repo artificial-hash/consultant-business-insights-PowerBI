@@ -1,0 +1,16 @@
+DATASET NAME:
+Sales Forecasting Dataset (Kaggle)
+
+SOURCE:
+Kaggle - Rohit Sahoo
+
+GRAIN OF DATA:
+Each row represents a sales record for a product/store on a specific date.
+
+KEY MEASURES:
+- Sales
+
+KEY DIMENSIONS:
+- Date
+- Store
+- Item / Product (if available)

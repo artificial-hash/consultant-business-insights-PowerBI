@@ -1,0 +1,5 @@
+1. What is the overall sales and profit trend?
+2. Which regions are underperforming?
+3. Which products are causing losses?
+4. Who are the top customers?
+5. How does performance change over time?
